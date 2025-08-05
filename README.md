@@ -1,4 +1,4 @@
-## 📌 Aplikasi Manajemen Pemasaran dan Pemesanan Perumahan
+## 📌 Housing Marketing and Booking Management Application
 
 ### 🚧 Problem Statement
 In Sobo Asri Housing, the marketing process relies solely on printed brochures, which limits access to detailed information about available housing units.
@@ -29,11 +29,6 @@ Buyers can monitor the status of their purchase transparently—from submission 
 
 By using this application, the sales and purchase processes become more efficient, transparent, and modern, improving both user experience and the professional image of the housing management.
 
-
-
-### 📷 Preview
-![Screenshot](link-ke-screenshot.png)
-
 ### 🚀 Technologies Used
 - Laravel 10
 - PHP 8
@@ -42,4 +37,31 @@ By using this application, the sales and purchase processes become more efficien
 - Geojson Polygon
 - Bootstrap / HTML + CSS + JS
 - Figma (for UI design)
+
+
+### 📷 Preview
+
+
+<img src="https://i.postimg.cc/TwN12BHr/aaa.png" width="600">
+
+<img src="https://i.postimg.cc/cLGRN83d/Screenshot-302.png" width="600">
+
+<img src="https://i.postimg.cc/bvbdRcfy/huhu.png" width="600">
+<img src="https://i.postimg.cc/BvxQKT2t/huhuu.png" width="600">
+<img src="https://i.postimg.cc/Xv74pRN1/Screenshot-305.png" width="300">
+
+<img src="https://i.postimg.cc/SRcwZdNz/Screenshot-309.png" width="300">
+
+<img src="https://i.postimg.cc/cH3xSQLd/Screenshot-310.png" width="300"> 
+
+<img src="https://i.postimg.cc/x1d9Cr1x/Screenshot-311.png" width="300"> 
+
+<img src="https://i.postimg.cc/4xMRxmMy/Screenshot-307.png" width="300"> 
+
+<img src="https://i.postimg.cc/N0TSGbmC/Screenshot-306.png" width="300"> 
+<img src="https://i.postimg.cc/9fj1b2w1/Screenshot-313.png" width="600"> 
+
+
+
+
 
