@@ -43,11 +43,11 @@ By using this application, the sales and purchase processes become more efficien
 
 
 <img src="https://i.postimg.cc/TwN12BHr/aaa.png" width="600">
-
 <img src="https://i.postimg.cc/cLGRN83d/Screenshot-302.png" width="600">
 
 <img src="https://i.postimg.cc/bvbdRcfy/huhu.png" width="600">
 <img src="https://i.postimg.cc/BvxQKT2t/huhuu.png" width="600">
+
 <img src="https://i.postimg.cc/Xv74pRN1/Screenshot-305.png" width="600">
 
 <img src="https://i.postimg.cc/SRcwZdNz/Screenshot-309.png" width="600">
@@ -59,6 +59,7 @@ By using this application, the sales and purchase processes become more efficien
 <img src="https://i.postimg.cc/4xMRxmMy/Screenshot-307.png" width="600"> 
 
 <img src="https://i.postimg.cc/N0TSGbmC/Screenshot-306.png" width="600"> 
+
 <img src="https://i.postimg.cc/9fj1b2w1/Screenshot-313.png" width="600"> 
 
 
