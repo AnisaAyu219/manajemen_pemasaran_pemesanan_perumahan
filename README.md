@@ -1,5 +1,8 @@
 ## 📌 Housing Marketing and Booking Management Application
 
+## 🚫 Source Code Not Included
+This application is owned by the company and is part of the internal system of PT Sobo Asri. Therefore, I am unable to share the source code publicly due to the company’s confidentiality policy.
+
 ### 🚧 Problem Statement
 In Sobo Asri Housing, the marketing process relies solely on printed brochures, which limits access to detailed information about available housing units.
 
